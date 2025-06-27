@@ -1,4 +1,4 @@
-![Header](./your-header-image-name.png)
+![Header](https://raw.githubusercontent.com/zhiif/asset/refs/heads/main/asset/github-header-image.png)
 
 <!--
 **zhiif/zhiif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
